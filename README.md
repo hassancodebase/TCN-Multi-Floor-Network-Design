@@ -84,6 +84,6 @@ The project demonstrates a complete enterprise LAN design that is secure, scalab
 It effectively integrates VLAN segmentation, efficient IP addressing, centralized routing, and automated configuration.
 
 ## 👤 Author
-**MUHAMMAD HASSAN**   
-Computer Networks Project
-3rd Semester - Fall'25
+- **MUHAMMAD HASSAN**   
+- Computer Networks Project
+- 3rd Semester - Fall'25
